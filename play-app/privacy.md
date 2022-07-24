@@ -2,7 +2,7 @@
 
 _Last updated: January 01, 2022_
 
-## Privacy Policy ("policy")</h1>
+## Privacy Policy ("policy")
 
 This privacy policy ("policy") will help you understand how the Play
 developer ("us", "we", "our") uses and protects the data you provide to us
