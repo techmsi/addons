@@ -2,7 +2,7 @@
 
 Policies for addons.
 
-[Google Addons](addons/)|[Alexa Skills](alexa-skills/)|[Play App](play-app/)|[Tag Revisions](tag-revisions/)
+[Google Addons](addons/)|[Alexa Skills](alexa-skills/)|[Play App](play-app/)
 
 ## Google Addons
 [Privacy Policy](addons/privacy.md)|[Terms of Service](addons/terms.md)
