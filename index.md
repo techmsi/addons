@@ -16,4 +16,4 @@ Policies for addons.
     width="200"
   />
 
-[Privacy Policy](alexa-skills/privacy.md)| [Terms of Use](alexa-skills/terms.md)
+[Privacy Policy](alexa-skills/privacy.md) | [Terms of Use](alexa-skills/terms.md)
