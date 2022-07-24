@@ -5,10 +5,10 @@ Policies for addons.
 [Google Addons](addons/)|[Alexa Skills](alexa-skills/)|[Play App](play-app/)|[Tag Revisions](tag-revisions/)
 
 ## Google Addons
-[Privacy Policy](addons/privacy.md)| [Terms of Service](addons/terms.md)
+[Privacy Policy](addons/privacy.md)|[Terms of Service](addons/terms.md)
 
 ## Alexa Skills
-[Privacy Policy](alexa-skills/privacy.md) | [Terms of Use](alexa-skills/terms.md)
+[Privacy Policy](alexa-skills/privacy.md)|[Terms of Use](alexa-skills/terms.md)
   
 ### Current Alexa Skills
 [Heart Rate Finder](https://www.amazon.com/Sophie-Idromenos-Heart-Rate-Finder/dp/B076TFFB7D)
