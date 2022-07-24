@@ -1,11 +1,12 @@
 # Apps
 
-Policies for addons.
-
-[Google Addons](addons/)|[Alexa Skills](alexa-skills/)|[Play App](play-app/)
+Policies for addons, skills & apps.
 
 ## Google Addons
 [Privacy Policy](addons/privacy.md)|[Terms of Service](addons/terms.md)
+
+## Google Play App
+[Privacy Policy](play-app/privacy.md)|
 
 ## Alexa Skills
 [Privacy Policy](alexa-skills/privacy.md)|[Terms of Use](alexa-skills/terms.md)
